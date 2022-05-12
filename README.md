@@ -6,7 +6,7 @@ Application clustering (Gitbucket,  NFS share for persistent data) and  writing 
 
 Configuring Postgres DB Server.  
 
-Configuring GlusterFS.  
+Configuring GlusterFS for persistant data.  
 
 High availability Application clustering (Nginx, Keepalived) and writing ansible role for automation.
 
