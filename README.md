@@ -8,6 +8,7 @@ Configuring Postgres DB Server.
 
 Configuring GlusterFS for persistant data.  
 
+
 High availability Application clustering (Nginx, Keepalived) and writing ansible role for automation.
 
 
